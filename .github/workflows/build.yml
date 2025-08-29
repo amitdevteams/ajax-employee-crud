@@ -17,4 +17,4 @@ jobs:
         uses: SonarSource/sonarqube-scan-action@v5
         env:
           SONAR_TOKEN: ${{ secrets.SONAR_TOKEN }}
-          SONAR_HOST_URL: https://49784fd1fcea.ngrok-free.app
+          SONAR_HOST_URL: https://49610ff16b7a.ngrok-free.app
